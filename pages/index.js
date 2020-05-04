@@ -19,9 +19,14 @@ export default function Home() {
 
   const addCard = () => setCards([ ...cards, CARDS[Math.floor(Math.random() * CARDS.length)]])
 
+  // attach a simple function to each card to remove the card from your hand
+  for (let card of cards) {
+    card.handleClick = (id) => setCards(cards.filter((c, i) => i !== id))
+  }
+
   return (
     <div className="container">
-      <button onClick={addCard}>Add Card</button>
+      <button onClick={addCard}>Add Random Card</button>
       <Hand cards={cards} />
     </div>
   )
