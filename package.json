@@ -9,9 +9,9 @@
     "reset": "rm -rf ./node_modules && yarn && yarn dev"
   },
   "dependencies": {
-    "handy": "file:../handy/build/",
     "next": "9.3.6",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-handy": "^0.0.1"
   }
 }

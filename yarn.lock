@@ -2561,9 +2561,6 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.4.tgz#2256bde14d3632958c465ebc96dc467ca07a29fb"
   integrity sha512-WjKPNJF79dtJAVniUlGGWHYGz2jWxT6VhN/4m1NdkbZ2nOsEF+cI1Edgql5zCRhs/VsQYRvrXctxktVXZUkixw==
 
-"handy@file:../handy/build":
-  version "0.0.0"
-
 has-ansi@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/has-ansi/-/has-ansi-2.0.0.tgz#34f5049ce1ecdf2b0649af3ef24e45ed35416d91"
@@ -4240,6 +4237,11 @@ react-dom@^16.13.1:
     object-assign "^4.1.1"
     prop-types "^15.6.2"
     scheduler "^0.19.1"
+
+react-handy@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/react-handy/-/react-handy-0.0.1.tgz#074c7e9494e3a007744654a00014ddb9caca01d5"
+  integrity sha512-OKeaVXDmFFmAXGsRNfYRwxZ1KoWjsBk2hfUxYUMTDofK0p3vcUJeWaPg6ZRMU5LIUQvuanv2TDLN4ZGNkw9PmQ==
 
 react-is@16.8.6:
   version "16.8.6"

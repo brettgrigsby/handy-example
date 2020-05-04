@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Hand } from 'handy'
+import { Hand } from 'react-handy'
 
 const CARDS = [
   { imgSrc: './atst.jpg' },
