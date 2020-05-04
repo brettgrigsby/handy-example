@@ -4238,10 +4238,10 @@ react-dom@^16.13.1:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
-react-handy@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/react-handy/-/react-handy-0.0.1.tgz#074c7e9494e3a007744654a00014ddb9caca01d5"
-  integrity sha512-OKeaVXDmFFmAXGsRNfYRwxZ1KoWjsBk2hfUxYUMTDofK0p3vcUJeWaPg6ZRMU5LIUQvuanv2TDLN4ZGNkw9PmQ==
+react-handy@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/react-handy/-/react-handy-0.0.2.tgz#7a61370d9d12d8021384539094fbe5ffbfe0729b"
+  integrity sha512-6HLyiHWco8EkCi8QCCiKDSuS6B24mteVGpa/IRRfL3YOLUMX/3474Ru19jSSibwQnr+tuWRF0td+vyVgvEnBVg==
 
 react-is@16.8.6:
   version "16.8.6"
