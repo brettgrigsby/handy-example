@@ -20,9 +20,9 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see react-handy in action.
 
-Hit the `Add Random Card` to add a random card from the set to your hand.
+Hit the `Add Random Card` button to add a random card from the set to your hand.
 
 Click any card to execute its on click function. In the case of this example app, it just
 removes the card from your hand.
