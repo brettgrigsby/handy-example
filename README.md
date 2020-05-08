@@ -24,8 +24,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see rea
 
 Hit the `Add Random Card` button to add a random card from the set to your hand.
 
-Click any card to execute its on click function. In the case of this example app, it removes the card
-from your hand if the `position.y` is small enough to be above the line on the page.
+Click any card to pick it up, and click it again to execute its onClick function. In the case of this example app,
+it removes the card from your hand if the `position.y` is small enough to be above the line on the page.
 
 ### NextJS
 
