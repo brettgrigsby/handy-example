@@ -2,6 +2,8 @@
 
 This is a really basic example of using the `react-handy` library to represent a hand of cards.
 
+To see a live version of this app running visit https://handy-example.now.sh/
+
 ## Getting Started
 
 Install the dependencies:
