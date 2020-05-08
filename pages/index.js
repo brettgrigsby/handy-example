@@ -42,8 +42,17 @@ export default function Home() {
   return (
     <div className="container">
       <button onClick={addCard}>Add Random Card</button>
-      <div style={{ height: 400, borderBottom: '2px solid black', width: '100%'}}>
-        Play card above the line to remove it from hand
+      <div style={{
+        height: 400,
+        borderBottom: '2px solid black',
+        width: '100%',
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'flex-end',
+      }}>
+        <span style={{ marginBottom: 5 }}>
+          ^^^&nbsp;&nbsp;&nbsp;PLAY CARD ABOVE THIS LINE TO REMOVE FROM HAND&nbsp;&nbsp;&nbsp;^^^
+        </span>
       </div>
       <Hand cards={cards} height={500} />
     </div>
