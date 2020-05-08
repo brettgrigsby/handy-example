@@ -27,19 +27,19 @@ Hit the `Add Random Card` button to add a random card from the set to your hand.
 Click any card to pick it up, and click it again to execute its onClick function. In the case of this example app,
 it removes the card from your hand if the `position.y` is small enough to be above the line on the page.
 
-A hand of cards:
+#### A hand of cards:
 
 ![Full Hand of Cards](https://user-images.githubusercontent.com/39804412/81449835-be9e3900-9146-11ea-93ff-90b9780762cd.png)
 
-Hovering over one card:
+#### Hovering over one card:
 
 ![Hovering One Card](https://user-images.githubusercontent.com/39804412/81449839-c1009300-9146-11ea-8d60-ccc4beb635a2.png)
 
-After clicking a card to pick it up:
+#### After clicking a card to pick it up:
 
 ![Holding One Card](https://user-images.githubusercontent.com/39804412/81449848-c52cb080-9146-11ea-87ab-f5a9de4382a4.png)
 
-After card has been played above the line:
+#### After card has been played above the line:
 
 ![Card Has Been Played](https://user-images.githubusercontent.com/39804412/81449857-c958ce00-9146-11ea-8345-263e0054449f.png)
 
